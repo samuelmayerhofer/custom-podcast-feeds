@@ -21,7 +21,7 @@
 		<itunes:subtitle>Home of the Ward Audiobook (New chapters every Monday &amp; Thursday)</itunes:subtitle>
 		<itunes:author>Parahuman Audio</itunes:author>
 		<itunes:type>serial</itunes:type>
-		<itunes:summary>From the same people who brought you the Worm Audiobook Project comes the fan-made audiobook conversion of the ongoing web serial Ward by J.C. McCrae (Wildbow)!</itunes:summary>
+		<itunes:summary>From the same people who brought you the Worm Audiobook Project comes the fan-made audiobook conversion of the ongoing web serial Ward by J.C. McCrae (Wildbow)! This podcast feed combines the relevant episodes of We've Got Ward with the episodes of the Ward Audiobook.</itunes:summary>
 		<itunes:owner>
 			<itunes:name>Robert &quot;Rein&quot; Ramsay</itunes:name>
 			<itunes:email>rein@rein-online.org</itunes:email>
@@ -30,7 +30,7 @@
 		<itunes:image href="http://parahumanaudio.com/wp-content/uploads/2021/03/Radiation-Podcast.png"></itunes:image>
 		<image>
 			<url>http://parahumanaudio.com/wp-content/uploads/2021/03/Radiation-Podcast.png</url>
-			<title>Ward Audiobook</title>
+			<title>Ward Audiobook + We've Got Ward</title>
 			<link>http://parahumanaudio.com/</link>
 		</image>
 		<itunes:category text="Fiction"></itunes:category>
