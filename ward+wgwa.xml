@@ -11,10 +11,10 @@
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	>
 	<channel>
-		<title>Ward Audiobook</title>
+		<title>Ward Audiobook + We've Got Ward</title>
 		<atom:link href="http://parahumanaudio.com/feed/podcast/ward-audiobook" rel="self" type="application/rss+xml"/>
 		<link>http://parahumanaudio.com/</link>
-		<description>From the same people who brought you the Worm Audiobook Project comes the fan-made audiobook conversion of the ongoing web serial Ward by J.C. McCrae (Wildbow)!</description>
+		<description>From the same people who brought you the Worm Audiobook Project comes the fan-made audiobook conversion of the ongoing web serial Ward by J.C. McCrae (Wildbow)! This podcast feed combines the relevant episodes of We've Got Ward with the episodes of the Ward Audiobook</description>
 		<lastBuildDate>Tue, 06 Apr 2021 03:05:14 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2021 Parahuman Audio</copyright>
@@ -6211,7 +6211,7 @@
 				</item>
 				<item>
 			<title>We've Got WARD - Prologue: Glow-worm</title>
-			<pubDate>Wed, 10 Jan 2018 14:00:00 +0000</pubDate>
+			<pubDate>Fri, 02 Feb 2018 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[8a24fec6dcf6269ec9bdf7e350825ccd]]></guid>
 			<link><![CDATA[https://wevegotworm.libsyn.com/weve-got-ward-prologue-glow-worm]]></link>
 			<itunes:image href="https://ssl-static.libsyn.com/p/assets/d/3/2/c/d32cdeffde44189a/Ward_cover_YouTube.jpg" />
