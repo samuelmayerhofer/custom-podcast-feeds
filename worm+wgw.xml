@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[Worm: An Unabridged Production + We've Got Worm]]></title>
+		<title><![CDATA[Worm: An Unabridged Production]]></title>
 		<description><![CDATA[An introverted teenage girl with an unconventional superpower, Taylor goes out in costume to find escape from a deeply unhappy and frustrated civilian life. Her first attempt at taking down a supervillain sees her mistaken for one, thrusting her into the midst of the local ‘cape’ scene’s politics, unwritten rules, and ambiguous morals. As she risks life and limb, Taylor faces the dilemma of having to do the wrong things for the right reasons.
 
 
-This is an unabridged fan-recording of Worm, written by John "Wildbow" McCrae. No copyright infringement is intended.
-
-This feed combines the episodes of Worm: An Unabridged Production with the relevant episodes of We've Got Worm]]></description>
+This is an unabridged fan-recording of Worm, written by John "Wildbow" McCrae. No copyright infringement is intended.]]></description>
 		<link>https://anchor.fm/abaddon-productions</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14088375/14088375-1618540394655-dfca5f3b0ae46.jpg</url>
-			<title>Worm: An Unabridged Production + We've Got Worm</title>
+			<title>Worm: An Unabridged Production</title>
 			<link>https://anchor.fm/abaddon-productions</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sat, 10 Apr 2021 18:56:11 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 May 2021 05:32:33 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/5491bdfc/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Abaddon Productions + Doof! Media]]></author>
-		<copyright><![CDATA[Abaddon Productions + Doof! Media]]></copyright>
+		<author><![CDATA[Abaddon Productions]]></author>
+		<copyright><![CDATA[Abaddon Productions]]></copyright>
 		<language><![CDATA[en]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Abaddon Productions + Doof! Media</itunes:author>
+		<itunes:author>Abaddon Productions</itunes:author>
 		<itunes:summary>An introverted teenage girl with an unconventional superpower, Taylor goes out in costume to find escape from a deeply unhappy and frustrated civilian life. Her first attempt at taking down a supervillain sees her mistaken for one, thrusting her into the midst of the local ‘cape’ scene’s politics, unwritten rules, and ambiguous morals. As she risks life and limb, Taylor faces the dilemma of having to do the wrong things for the right reasons.
 
 
-This is an unabridged fan-recording of Worm, written by John &quot;Wildbow&quot; McCrae. No copyright infringement is intended. This feed combines the relevant podcast episodes of Worm: An Unabridged Production with the relevant episodes of We've Got Worm.</itunes:summary>
+This is an unabridged fan-recording of Worm, written by John &quot;Wildbow&quot; McCrae. No copyright infringement is intended.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>Abaddon Productions</itunes:name>
@@ -35,7 +33,8 @@ This is an unabridged fan-recording of Worm, written by John &quot;Wildbow&quot;
 			<itunes:category text="Books"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14088375/14088375-1618540394655-dfca5f3b0ae46.jpg"/>
-						<title><![CDATA[Agitation 3.4]]></title>
+		<item>
+			<title><![CDATA[Agitation 3.5]]></title>
 			<description><![CDATA[<p>This is a production of Worm, by John "Wildbow" McCrae. The original text can be found at http://parahumans.wordpress.com.</p>
 <p><br></p>
 <p>Thanks to pallysuune for narrating.</p>
@@ -44,7 +43,52 @@ This is an unabridged fan-recording of Worm, written by John &quot;Wildbow&quot;
 <p><br></p>
 <p>This recording was made possible with the permission of J.C. McCrae.</p>
 ]]></description>
-			<item>
+			<link>https://anchor.fm/abaddon-productions/episodes/Agitation-3-5-e10pnsd</link>
+			<guid isPermaLink="false">d414f5ac-05c3-42d2-8483-61405173af02</guid>
+			<dc:creator><![CDATA[Abaddon Productions]]></dc:creator>
+			<pubDate>Thu, 13 May 2021 05:28:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5491bdfc/podcast/play/33398093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-13%2F275a2802-a5ff-c083-7909-a8863978c70c.mp3" length="13028237" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is a production of Worm, by John &quot;Wildbow&quot; McCrae. The original text can be found at http://parahumans.wordpress.com.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to pallysuune for narrating.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Worm and the Parahumans stories are the intellectual property of J.C. McCrae. No copyright infringement is intended.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This recording was made possible with the permission of J.C. McCrae.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>755</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14088375/14088375-1620883729854-9055a31450d8d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Agitation 3.4]]></title>
+			<description><![CDATA[<p>This is a production of Worm, by John "Wildbow" McCrae. The original text can be found at http://parahumans.wordpress.com.</p>
+<p><br></p>
+<p>Thanks to pallysuune for narrating.</p>
+<p><br></p>
+<p>Worm and the Parahumans stories are the intellectual property of J.C. McCrae. No copyright infringement is intended.</p>
+<p><br></p>
+<p>This recording was made possible with the permission of J.C. McCrae.</p>
+]]></description>
+			<link>https://anchor.fm/abaddon-productions/episodes/Agitation-3-4-e10lfo9</link>
+			<guid isPermaLink="false">1be05f87-aef1-4258-a483-01af2fcc45ca</guid>
+			<dc:creator><![CDATA[Abaddon Productions]]></dc:creator>
+			<pubDate>Tue, 11 May 2021 01:32:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5491bdfc/podcast/play/33258697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-11%2F3599eae7-c95d-f79f-4bfa-3fa80ade5b1e.mp3" length="19981487" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is a production of Worm, by John &quot;Wildbow&quot; McCrae. The original text can be found at http://parahumans.wordpress.com.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to pallysuune for narrating.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Worm and the Parahumans stories are the intellectual property of J.C. McCrae. No copyright infringement is intended.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This recording was made possible with the permission of J.C. McCrae.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1138</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14088375/14088375-1618540394655-dfca5f3b0ae46.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 			<title><![CDATA[Agitation 3.3]]></title>
 			<description><![CDATA[<p>This is a production of Worm, by John "Wildbow" McCrae. The original text can be found at http://parahumans.wordpress.com.</p>
 <p><br></p>
