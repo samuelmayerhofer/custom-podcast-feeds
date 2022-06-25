@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+	<generator>Feed Editor (Unlicensed)</generator>
+	<pubDate>25 Jun 2022 03:33:00 GMT</pubDate>
+	<title>Sam Gabriel's Oneshots</title>
+	<description>This is a test.</description>
+	<link>https://github.com/samuelmayerhofer/custom-podcast-feeds/blob/main/test.xml</link>
+	<language>en</language>
+	<itunes:explicit>no</itunes:explicit>
+	<item>
+	<title>Inspected by No. 13</title>
+	<description>This is a test.</description>
+	<pubDate>25 Jun 2022 03:33:05 GMT</pubDate>
+	<link>https://samgabrielvo.com/onecasts/n13final.mp3</link>
+	<guid isPermaLink="false">CA6165DD-D4E7-4AD3-BA9E-D137F06AA7BB</guid>
+	<itunes:duration>00:00</itunes:duration>
+	<itunes:explicit>no</itunes:explicit>
+	</item>
+	</channel></rss>
